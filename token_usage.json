@@ -1,0 +1,126 @@
+{
+    "total_input_tokens": 2740,
+    "total_output_tokens": 2894,
+    "tokens_per_ticket": [
+        {
+            "ticket_id": 1,
+            "category": "Access",
+            "input_tokens": 137,
+            "output_tokens": 137
+        },
+        {
+            "ticket_id": 2,
+            "category": "Software",
+            "input_tokens": 137,
+            "output_tokens": 155
+        },
+        {
+            "ticket_id": 3,
+            "category": "Hardware",
+            "input_tokens": 137,
+            "output_tokens": 144
+        },
+        {
+            "ticket_id": 4,
+            "category": "Access",
+            "input_tokens": 137,
+            "output_tokens": 143
+        },
+        {
+            "ticket_id": 5,
+            "category": "Software",
+            "input_tokens": 137,
+            "output_tokens": 150
+        },
+        {
+            "ticket_id": 6,
+            "category": "Hardware",
+            "input_tokens": 137,
+            "output_tokens": 132
+        },
+        {
+            "ticket_id": 7,
+            "category": "Access",
+            "input_tokens": 137,
+            "output_tokens": 133
+        },
+        {
+            "ticket_id": 8,
+            "category": "Software",
+            "input_tokens": 137,
+            "output_tokens": 155
+        },
+        {
+            "ticket_id": 9,
+            "category": "Hardware",
+            "input_tokens": 137,
+            "output_tokens": 150
+        },
+        {
+            "ticket_id": 10,
+            "category": "Access",
+            "input_tokens": 137,
+            "output_tokens": 180
+        },
+        {
+            "ticket_id": 11,
+            "category": "Software",
+            "input_tokens": 137,
+            "output_tokens": 124
+        },
+        {
+            "ticket_id": 12,
+            "category": "Hardware",
+            "input_tokens": 137,
+            "output_tokens": 126
+        },
+        {
+            "ticket_id": 13,
+            "category": "Access",
+            "input_tokens": 137,
+            "output_tokens": 132
+        },
+        {
+            "ticket_id": 14,
+            "category": "Software",
+            "input_tokens": 137,
+            "output_tokens": 161
+        },
+        {
+            "ticket_id": 15,
+            "category": "Hardware",
+            "input_tokens": 137,
+            "output_tokens": 142
+        },
+        {
+            "ticket_id": 16,
+            "category": "Access",
+            "input_tokens": 137,
+            "output_tokens": 121
+        },
+        {
+            "ticket_id": 17,
+            "category": "Software",
+            "input_tokens": 137,
+            "output_tokens": 144
+        },
+        {
+            "ticket_id": 18,
+            "category": "Hardware",
+            "input_tokens": 137,
+            "output_tokens": 166
+        },
+        {
+            "ticket_id": 19,
+            "category": "Access",
+            "input_tokens": 137,
+            "output_tokens": 134
+        },
+        {
+            "ticket_id": 20,
+            "category": "Software",
+            "input_tokens": 137,
+            "output_tokens": 165
+        }
+    ]
+}

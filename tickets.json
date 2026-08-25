@@ -1,0 +1,162 @@
+[
+    {
+        "ticket_id": 1,
+        "category": "Access",
+        "body": {
+            "short_description": "Unable to access account after password reset",
+            "description": "Customer reports that they successfully completed a password reset through the 'Forgot Password' feature, but are unable to log in with their new credentials. The reset confirmation email was received and the new password meets all requirements (minimum 8 characters, includes uppercase, lowercase, numbers, and special characters). Customer has attempted logging in multiple times from different browsers and devices without success, receiving an 'Invalid credentials' error message each time. Account was last successfully accessed 3 days ago. Customer needs immediate access restored to complete urgent business operations."
+        }
+    },
+    {
+        "ticket_id": 2,
+        "category": "Software",
+        "body": {
+            "short_description": "Application crashes when exporting large reports to PDF",
+            "description": "Customer reports that our reporting software consistently crashes whenever attempting to export reports larger than 50MB to PDF format. The issue occurs on both Windows 10 and Windows 11 systems running the latest version (v8.2.1) of the application. The crash happens without any error message, and the application must be force-closed. This is blocking the customer's ability to generate monthly compliance reports, which is a critical business process. The issue started occurring after the recent v8.2.0 update. Customer has already tried clearing temporary files, reinstalling the application, and running as administrator without resolution."
+        }
+    },
+    {
+        "ticket_id": 3,
+        "category": "Hardware",
+        "body": {
+            "short_description": "Laptop keyboard not responding to key presses",
+            "description": "Customer reports that their Dell XPS 13 laptop keyboard has become unresponsive and does not register key presses. The issue started this morning without any recent hardware damage or liquid spills. The customer has attempted to restart the device but the problem persists. External USB keyboard works fine when connected, confirming the issue is isolated to the built-in keyboard. The laptop is approximately 18 months old and is still within the manufacturer's warranty period. Customer needs urgent assistance as they rely on this device for work and have important deadlines this week."
+        }
+    },
+    {
+        "ticket_id": 4,
+        "category": "Access",
+        "body": {
+            "short_description": "Unable to access account after password reset",
+            "description": "Customer reports that they are unable to log into their account following a password reset attempt. They received a password reset email and clicked the reset link, set a new password, and attempted to sign in with the new credentials. However, they are receiving an 'Invalid credentials' error message. The customer has confirmed they are entering the correct email address and has triple-checked the new password they created. They have also attempted clearing their browser cache and using an incognito window without success. The customer needs immediate access to their account to retrieve important information and continue using our services."
+        }
+    },
+    {
+        "ticket_id": 5,
+        "category": "Software",
+        "body": {
+            "short_description": "Application crashes when exporting large datasets to CSV",
+            "description": "User reports that the software application unexpectedly crashes whenever they attempt to export datasets containing more than 50,000 rows to a CSV file format. The crash occurs without any error message, forcing the user to force-close the application. This issue prevents the user from completing their weekly reporting tasks. The problem has been occurring consistently over the past three days across multiple datasets. User is running the latest version of the software (v3.2.1) on Windows 10 with 16GB of RAM. No recent system updates or software patches have been installed prior to the issue beginning."
+        }
+    },
+    {
+        "ticket_id": 6,
+        "category": "Hardware",
+        "body": {
+            "short_description": "Laptop screen flickering intermittently",
+            "description": "Customer reports that their Dell XPS 13 laptop screen has been flickering on and off at random intervals throughout the day. The flickering occurs regardless of brightness settings and happens even when the laptop is plugged in. The issue started approximately one week ago and has progressively worsened. Customer has already tried updating display drivers and adjusting power settings without resolution. The device is still under warranty (purchased 8 months ago). Customer needs assistance in determining if this is a hardware defect requiring repair or replacement."
+        }
+    },
+    {
+        "ticket_id": 7,
+        "category": "Access",
+        "body": {
+            "short_description": "Unable to access account after password reset",
+            "description": "Customer reports that they attempted to reset their password using the 'Forgot Password' feature, but after completing the process and creating a new password, they are unable to log in to their account. The system accepts the new password during the reset process but rejects it during login attempts. The customer has tried multiple times with the same result and has confirmed they are entering the credentials correctly. No error messages are displayed upon failed login attempts. The customer requires immediate assistance to regain access to their account to continue using our services."
+        }
+    },
+    {
+        "ticket_id": 8,
+        "category": "Software",
+        "body": {
+            "short_description": "Application crashes when exporting large datasets to CSV format",
+            "description": "Customer reports that the software application crashes unexpectedly whenever they attempt to export datasets larger than 500MB to CSV format. The issue occurs consistently across different computers and network conditions. The application freezes for approximately 30 seconds before displaying an error message, then closes without saving the export. This is preventing the customer from completing their monthly reporting tasks. The issue began after updating to version 3.2.1 last week. Previous versions (3.2.0 and earlier) did not have this problem. Customer has attempted restarting the application and clearing the cache, but the issue persists."
+        }
+    },
+    {
+        "ticket_id": 9,
+        "category": "Hardware",
+        "body": {
+            "short_description": "Laptop won't turn on after power surge",
+            "description": "Customer reports that their Dell XPS 13 laptop will not power on following an electrical power surge in their home. The device was plugged into a standard outlet when the surge occurred. There is no response when the power button is pressed, no LED indicators light up, and no fans spin. The customer has attempted holding the power button for 30 seconds and tried using a different power adapter without success. The laptop was purchased 18 months ago and has been functioning normally prior to this incident. Customer requests assistance with troubleshooting or repair options and is concerned about potential data loss."
+        }
+    },
+    {
+        "ticket_id": 10,
+        "category": "Access",
+        "body": {
+            "short_description": "Unable to access account after password reset",
+            "description": "Customer reports being locked out of their account following a recent password reset attempt. After submitting a password reset request through the 'Forgot Password' link, they received a confirmation email and set a new password. However, when attempting to log in with the new credentials, the system displays an 'Invalid credentials' error message. The customer has verified they are entering the correct email address and password, and has attempted the process multiple times without success. They are unable to access their account dashboard, billing information, and project files. The issue began approximately 2 hours ago and is impacting their ability to work. Previous login attempts with the old password also fail, confirming the password reset was processed. Customer requests immediate assistance to regain account access."
+        }
+    },
+    {
+        "ticket_id": 11,
+        "category": "Software",
+        "body": {
+            "short_description": "Application crashes on startup after latest update",
+            "description": "Customer reports that the software application fails to launch and immediately crashes after installing version 3.2.1. The error occurs consistently every time the application is started, preventing any usage. Customer has already attempted restarting their computer and reinstalling the application without success. The software was working properly on version 3.1.9. Customer is running Windows 10 with 8GB RAM and has all system requirements met. This is blocking their workflow and requires urgent resolution."
+        }
+    },
+    {
+        "ticket_id": 12,
+        "category": "Hardware",
+        "body": {
+            "short_description": "Laptop not powering on after battery replacement",
+            "description": "Customer reports that their laptop will not turn on after attempting to replace the battery themselves. The device was working normally before the battery swap. They have tried holding the power button for 30 seconds and plugging in the AC adapter, but there are no lights, sounds, or signs of power. The battery they purchased is listed as compatible with their model. Customer is concerned they may have damaged internal components during the replacement process and requests assistance in troubleshooting or repair options."
+        }
+    },
+    {
+        "ticket_id": 13,
+        "category": "Access",
+        "body": {
+            "short_description": "Unable to access account after password reset",
+            "description": "Customer reports that they attempted to reset their password using the 'Forgot Password' feature, but after receiving and clicking the reset link, they are unable to log in with the new password. They have verified that they are entering the correct credentials and have tried clearing browser cache and using an incognito window without success. The customer needs immediate access to their account to retrieve important documents scheduled for download today. No error messages are being displayed during the login attempt, and the system simply returns to the login page after submission."
+        }
+    },
+    {
+        "ticket_id": 14,
+        "category": "Software",
+        "body": {
+            "short_description": "Application crashes when exporting large datasets to CSV format",
+            "description": "Customer reports that the data management software crashes whenever attempting to export datasets larger than 500MB to CSV format. The issue occurs consistently across different computers and operating systems (Windows 10 and macOS). The application becomes unresponsive for approximately 30 seconds before displaying an error message stating 'Memory allocation failed' and then closes without saving the export file. This prevents the customer from completing their monthly reporting tasks that require exporting customer transaction data. The issue began occurring after upgrading to version 4.2.1 last week. Previous versions (4.1.x) did not exhibit this problem with the same datasets."
+        }
+    },
+    {
+        "ticket_id": 15,
+        "category": "Hardware",
+        "body": {
+            "short_description": "Monitor display not turning on after power surge",
+            "description": "Customer reports that their Dell U2720Q monitor stopped working after a recent electrical storm caused a power surge in their office. The monitor was plugged into a standard outlet without surge protection. When powered on, there are no signs of life - no LED indicator light, no display output, and no response to input buttons. The customer has confirmed that the power cable is firmly connected and tested the outlet with another device that works properly. They are requesting either a repair or replacement under warranty. The monitor is approximately 18 months old and was purchased in April 2022."
+        }
+    },
+    {
+        "ticket_id": 16,
+        "category": "Access",
+        "body": {
+            "short_description": "Unable to access account after password reset",
+            "description": "Customer reports that they initiated a password reset through the forgot password link but are unable to log in with the new password. They have verified that they are using the correct email address and have tried clearing their browser cache and cookies. The password reset confirmation email was received successfully. Customer has attempted login multiple times without success and receives a generic 'Invalid credentials' error message. They need immediate assistance to regain access to their account to complete urgent tasks before an upcoming deadline."
+        }
+    },
+    {
+        "ticket_id": 17,
+        "category": "Software",
+        "body": {
+            "short_description": "Application crashes when exporting large datasets to CSV",
+            "description": "User reports that the software application becomes unresponsive and crashes whenever they attempt to export datasets larger than 50MB to CSV format. The issue occurs consistently across different file types and has prevented the user from completing their monthly reporting tasks. The user has already tried restarting the application and their computer without success. They are running version 3.2.1 on Windows 10 and need a solution urgently as this is blocking critical business operations. No error messages are displayed before the crash, and the application must be force-closed using Task Manager."
+        }
+    },
+    {
+        "ticket_id": 18,
+        "category": "Hardware",
+        "body": {
+            "short_description": "Monitor not displaying any signal after power reset",
+            "description": "Customer reports that their external monitor stopped working after performing a system power reset. The monitor was functioning normally before the restart. When powered on, the monitor shows no signal and remains in standby mode despite being properly connected to the computer via HDMI cable. The customer has already tried: 1) reconnecting the HDMI cable to both the monitor and computer, 2) trying a different HDMI port on the computer, and 3) restarting the computer multiple times. The monitor's power light is on and functioning, indicating it is receiving power. The customer needs assistance troubleshooting the video signal issue or determining if the monitor requires hardware replacement."
+        }
+    },
+    {
+        "ticket_id": 19,
+        "category": "Access",
+        "body": {
+            "short_description": "Unable to access account after password reset",
+            "description": "Customer reports that they initiated a password reset through the forgot password link but are now unable to log in with the new credentials. They have verified that they are using the correct email address and have tried resetting their password multiple times, but continue to receive an 'Invalid credentials' error message. The customer last successfully accessed their account three days ago. They have also attempted to clear their browser cache and tried logging in from a different device without success. Customer is unable to perform any account functions and requires immediate assistance to regain access."
+        }
+    },
+    {
+        "ticket_id": 20,
+        "category": "Software",
+        "body": {
+            "short_description": "Application crashes when exporting large reports to PDF",
+            "description": "Customer reports that our reporting software consistently crashes whenever they attempt to export reports containing more than 500 rows of data to PDF format. The application freezes for approximately 30 seconds before displaying an error dialog stating 'Export failed - insufficient memory.' This issue occurs on their Windows 10 machine with 16GB RAM and has been happening since they upgraded to version 3.2.1 last week. Previous versions (3.2.0 and earlier) did not exhibit this problem. The customer needs this functionality working urgently as they have critical monthly reports due by end of week. They have attempted restarting the application and clearing temporary files without success."
+        }
+    }
+]
